@@ -1,0 +1,4 @@
+a 4 b 10 a
+A 78 B 44 B
+12 48 12 30 12
+aaa 40 vvbv 40 draw
